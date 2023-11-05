@@ -6,4 +6,11 @@ level 1 : NH2SXQwcBdpmTEzi3bvBHMM9H66vVXjL
 level 2 : rRGizSaX8Mk1RTb1CNQoXTcYZWU6lgzi
 level 3 : aBZ0W5EmUfAf7kHTQeOwd8bauFJ2lAiG
 level 4 : 2EW7BBsr6aMMoJ2HjW067dm8EgX26xNe
-level 5 : lrIWWI6bB37kxfiCQZqUdOIYfr6eEeqR
+level 5 : lrIWWI6bB37kxfiCQZqUdOIYfr6eEeqR - find ./ -type f -size 1033c ! -executable
+level 6 : P4L4vucdmLnm8I7Vl7jG1ApGSfjYKqJU - find / -user username -group groupname
+level 7 : z7WtoNQU2XfjmMtWA8u5rN4vzqu4v99S - cat filename.txt | grep "keyword" 
+level 8 : TESKZC0XvTetK0S9xNwm25STk5iWrBvP - sort filename.txt | uniq -u  
+level 9 : EN632PlfYiZbn3PhVK3XOGSlNInNE00t - strings filename.txt
+level 10 : G7w8LIi6J3kTb8A7j9LgrywtEUlyyp6s - base64 -d filename.txt
+level 11 : 6zPeziLdR2RKNdNYFNb6nVCKzphlXHBM - (used rot13.com to rotate the character)
+level 12 : JVNBBFSmZwKKOP0XbFXOoW8chDz5yVRv 
