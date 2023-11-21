@@ -1,7 +1,8 @@
 ## Leviathan
 
- - `Host : leviathan.labs.overthewire.org`
- - `Port : 2223`
+  `Host : leviathan.labs.overthewire.org`
+  
+  `Port : 2223`
 
 
  - level 0 : `bandit0`  
