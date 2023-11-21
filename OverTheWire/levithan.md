@@ -1,6 +1,7 @@
 ## Leviathan
- - Host : `leviathan.labs.overthewire.org`
- - Port : `2223`
+
+ - `Host : leviathan.labs.overthewire.org`
+ - `Port : 2223`
 
 
  - level 0 : `bandit0`  
@@ -50,6 +51,7 @@ It's actually reading the password file. when i normally ran the file, it gave m
 
 
  - level 6 : `YZ55XPVk2l`
+
 while entering the level it have leviathan6 executable file in home directory.but it shows `usage: ./leviathan6 <4 digit code>`; 
 So I run a for loop from `0000` to `9999`.
 
