@@ -20,4 +20,8 @@ level 15 : jN2kgmIXJ6fShzhT2avhotn4Zcka6tnt - echo "BfMYroe26WYalil77FoDi9qh59eK
 level 16 : JQttfApK4SeyHwDlI9SXGR50qclOAil1 - nc localhost 3001 - 3500
 level 17 : VwOSWtCA7lRKkTfbr2IDh6awj9RNZM5e - diff passwords.new passwords.old
 level 18 : hga5tuuCLF6fFzUpnagiMN8ssu9LFrdg -  ssh -p 2220 bandit18@bandit.labs.overthewire.org cat "readme"
-level 19 : awhqfNnAbc1naukrpqDYcF95h7HoMTrC - 
+level 19 : awhqfNnAbc1naukrpqDYcF95h7HoMTrC -  ./bandit20-do cat /etc/bandit_pass/bandit20
+level 20 : NvEJF7oVjkddltPSrdKEFOllh9V1IBcq -  echo -n "VxCazJaVykI6W36BkBU0mJTCM8rR95XT" | nc -l -p 1234  &
+level 21 : WdDozAdTM2z9DiFEQ2mGlwngMfj4EZff - cat /usr/bin/cronjob_bandit22.sh
+level 22 : QYw0Y2aiA672PsMmh9puTQuhoz8SyR2G - echo I am user bandit23 | md5sum | cut -d ' ' -f 1
+level 23 : 
