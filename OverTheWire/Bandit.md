@@ -24,4 +24,8 @@ and we need to find it with our technical skills. I'm uploading my level complet
  - level 20 : NvEJF7oVjkddltPSrdKEFOllh9V1IBcq -  echo -n "VxCazJaVykI6W36BkBU0mJTCM8rR95XT" | nc -l -p 1234  &
  - level 21 : WdDozAdTM2z9DiFEQ2mGlwngMfj4EZff - cat /usr/bin/cronjob_bandit22.sh
  - level 22 : QYw0Y2aiA672PsMmh9puTQuhoz8SyR2G - echo I am user bandit23 | md5sum | cut -d ' ' -f 1
- - level 23 : 
+ - level 23 : VAfGXJ1PBSsPSnvsjI8p759leLZ9GGar - echo "cat /etc/bandit_pass/bandit24 > /tmp/rand/password" > shellfile.sh 
+ - level 24 : p7TaowMYrmu23Ol8hiZh9UvD0O9hpx8d - for i in {0000..9999}; do echo VAfGXJ1PBSsPSnvsjI8p759leLZ9GGar $i; done | nc localhost 30002
+ - level 25 : c7GvcKlw9mC7aUQaPx7nwFstuAIBw1o1 - :set shell =/bin/bash, :shell
+ - level 26 : YnQpBuifNMas1hcUFk70ZmqkhUU2EuaS - ./bandit27-do cat /etc/bandit_pass/bandit27
+ - level 27 :
