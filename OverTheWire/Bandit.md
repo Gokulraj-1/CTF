@@ -1,5 +1,13 @@
+## Bandit
+
 I'm practicing Capturing the flag in OverTheWire - Bandit, Here, they hide the password in somewhere,
 and we need to find it with our technical skills. I'm uploading my level completion here
+
+  `Host : bandit.labs.overthewire.org`
+  
+  `Port : 2220`
+
+  `ssh -p 2220 bandit0@bandit.labs.overthewire.org`
 
  - level 0 : bandit0  
  - level 1 : NH2SXQwcBdpmTEzi3bvBHMM9H66vVXjL 
@@ -28,4 +36,10 @@ and we need to find it with our technical skills. I'm uploading my level complet
  - level 24 : p7TaowMYrmu23Ol8hiZh9UvD0O9hpx8d - for i in {0000..9999}; do echo VAfGXJ1PBSsPSnvsjI8p759leLZ9GGar $i; done | nc localhost 30002
  - level 25 : c7GvcKlw9mC7aUQaPx7nwFstuAIBw1o1 - :set shell =/bin/bash, :shell
  - level 26 : YnQpBuifNMas1hcUFk70ZmqkhUU2EuaS - ./bandit27-do cat /etc/bandit_pass/bandit27
- - level 27 :
+ - level 27 : AVanL161y9rsbcJIsFHuw35rjaOM19nR - git clone ssh://bandit27-git@localhost:2220/home/bandit27-git/repo
+ - level 28 : tQKvmcwNYcFS6vmPHIUSI3ShmsrQZK8S - git log , git show
+ - level 29 : xbhV3HpNGlTIdnjUrdAlPzc2L6y9EOnS - git branch , git checkout , git log -p - l 
+ - level 30 : OoffzGDlzhAlerFJ2cAiz1D41JW1Mhmt - git tag
+ - level 31 : rmCBvG56y58BXzv98yZGdO7ATVL5dW8y - git push origin master
+ - level 32 : odHo63fHiFqcWWJG9rLiLDtPm45KzUKy - git tag, git show secret
+ - level 33 : completed 
